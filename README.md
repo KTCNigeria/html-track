@@ -1,8 +1,17 @@
-# html-track
-## Guide on getting started with kidsthatcode community weekly task
+# This is an introduction to HTML, task one is to help you understand elements and tags in HTML
 
-- Join the community https://bit.ly/JoinKTCCommunity 
-- Check out Kidsthatcode github account and select the track you would like to take part in.
-- Create a github profile and fork the track repo you are interested in. 
-- Create an account on https://codepen.io/ (Code pen)
-- Attempt the weekly task on codepen and share your codepen link to your solution in the community group. 
+HTML means Hyper text markup language, it uses a special syntax to describe how the webpage of a browser is structured.
+HTML elements usually have opening and closing tags that surround and give meaning to content
+
+### Your Task
+- Using `h1`tag, print out *hello, my name is Iron Man*
+- There are other sub headers like `h1` find out how many and use them to print out names of your friends
+- Learn about paragraphs and use them to print out the name of your school
+
+Here are some links that will guide you if you are unsure of what to do. 
+
+for learning about headers: 
+https://www.w3schools.com/html/html_headings.asp 
+
+for learning about paragraphs: 
+https://www.w3schools.com/html/html_paragraphs.asp
