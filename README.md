@@ -1,15 +1,15 @@
-# <p align="center">Task Six - Divs</p>
+# <p align="center">Task Seven - The Finale</p>
 
-Divs help to seperate content of our webpage into different sections. It helps to group styling, and also group inline elements like `<a>`, `<img>`, `<span>` e.t.c
+If you've gotten to this task, then congratulations. You've just been able to learn the fundamentals of HTML, and you're getting closer to building your first complete site. But there is one last task you need to complete...
 
 ### Your Task
-- Create a tribute page to someone. It could be an athelete you admire, a hero from a movie or cartoon, and so on
-- Using `<div>` tag, separate the profile info, achievements of that person, social links and images.
-- It should be well organised and contain detailed information.
+- Using all the knowledge you've gained so far, create a small landing page for a brand.
+- It should have a hero section (know more about heros [here](https://www.awebco.com/blog/hero-section/))
+- It should display what this brand does, and how to reach them, what they offer e.g contact links
+- Some examples of brands you could use are fashion stores, e-commerce sites or even personal websites.
+- It isn't compulsory to add styling as that hasn't been discussed here yet. But if you feel a little advanced, you can add some basic styling.
 
-As usual, be creative, and give it your best shot
-
-for learning about divs: 
-[YouTube](https://www.youtube.com/watch?v=-XQlr727A8w&list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc&index=13)
+If you find any aspect of this task confusing, feel free to ask your questions in the community as there are always people to offer help.
+Also, feel free to return tomprevious tasks if you happened to have forgotten some concepts.
 
 Don't forget to have fun! 😊
